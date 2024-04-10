@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "jhon duarte jhonny.jdt18@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
